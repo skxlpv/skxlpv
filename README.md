@@ -2,7 +2,6 @@
 🌱 Software engineer student, who is passionate about everything in existence, web-development and design in particular. </br>
 👋 Nice to see you!
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram--pink)](https://instagram.com/skxlpv) 
 [![Static Badge](https://img.shields.io/badge/Telegram--blue)](https://t.me/skxlpv)
 
