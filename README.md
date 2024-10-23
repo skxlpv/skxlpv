@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 Musique -- first Fullstack Project, currently in development;<br>
-🌱 Django + React = New Trend!
+🌱 Software engineer student, who is passionate about everything in existence, web-development and design in particular. 
+👋 Nice to see you!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram--pink)](https://instagram.com/skxlpv) 
