@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Software engineer student, who is passionate about everything in existence, web-development and design in particular. </br>
+🌱 Software engineer, who is passionate about everything in existence, web-development and design in particular. </br>
 👋 Nice to see you!
 
 [![Instagram](https://img.shields.io/badge/Instagram--pink)](https://instagram.com/skxlpv) 
